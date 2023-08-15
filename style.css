@@ -1,0 +1,17 @@
+#headDiv
+{
+background-color: cadetblue;
+}
+
+#second
+{
+    background-color: aliceblue;
+}
+
+#credit
+{
+    background-color: dimgray;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
