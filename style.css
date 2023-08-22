@@ -1,5 +1,22 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+#startBtn
+{
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+}
+#startBtn:hover
+{
+    font-size: 17px;
+    background-color: red;
+}
 #headDiv
 {
+    margin-top: -20px;
+
 background-color: cadetblue;
 }
 
@@ -10,8 +27,13 @@ background-color: cadetblue;
 
 #credit
 {
+    padding-top: 10px;
     background-color: dimgray;
     width: 100%;
     bottom: 0;
+    height: 5%;
+    font-size: 22px;
+    text-align: center;
+    color: cornsilk;
     position: fixed;
 }
